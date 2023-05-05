@@ -1,0 +1,10 @@
+.center-div{
+    display: table;
+    margin: 0 auto;
+}
+.ta-left{
+text-align: left;
+}
+.div-center{
+    text-align: center;
+}
